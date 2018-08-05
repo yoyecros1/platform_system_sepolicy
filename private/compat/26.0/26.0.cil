@@ -170,7 +170,6 @@
 (typeattributeset dumpstate_prop_26_0 (dumpstate_prop))
 (typeattributeset dumpstate_service_26_0 (dumpstate_service))
 (typeattributeset dumpstate_socket_26_0 (dumpstate_socket))
-(typeattributeset edgegesture_service_26_0 (edgegesture_service))
 (typeattributeset efs_file_26_0 (efs_file))
 (typeattributeset ephemeral_app_26_0 (ephemeral_app))
 (typeattributeset ethernet_service_26_0 (ethernet_service))
