@@ -109,6 +109,7 @@
     storaged_data_file
     sysfs_disk_stat
     sysfs_fs_ext4_features
+    sysfs_fs_f2fs
     system_boot_reason_prop
     system_net_netd_hwservice
     system_update_service
